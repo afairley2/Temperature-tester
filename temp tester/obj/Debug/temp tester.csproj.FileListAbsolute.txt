@@ -1,0 +1,7 @@
+E:\HND SOFTWARE DEVELOPMENT\SQL INTRODUCTION\CODE\temp tester\temp tester\temp tester\obj\Debug\temp tester.csprojAssemblyReference.cache
+E:\HND SOFTWARE DEVELOPMENT\SQL INTRODUCTION\CODE\temp tester\temp tester\temp tester\obj\Debug\temp tester.csproj.CoreCompileInputs.cache
+E:\HND SOFTWARE DEVELOPMENT\SQL INTRODUCTION\CODE\temp tester\temp tester\temp tester\bin\Debug\temp tester.exe.config
+E:\HND SOFTWARE DEVELOPMENT\SQL INTRODUCTION\CODE\temp tester\temp tester\temp tester\bin\Debug\temp tester.exe
+E:\HND SOFTWARE DEVELOPMENT\SQL INTRODUCTION\CODE\temp tester\temp tester\temp tester\bin\Debug\temp tester.pdb
+E:\HND SOFTWARE DEVELOPMENT\SQL INTRODUCTION\CODE\temp tester\temp tester\temp tester\obj\Debug\temp tester.exe
+E:\HND SOFTWARE DEVELOPMENT\SQL INTRODUCTION\CODE\temp tester\temp tester\temp tester\obj\Debug\temp tester.pdb
